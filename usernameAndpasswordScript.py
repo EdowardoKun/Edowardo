@@ -2,7 +2,7 @@
 import re
 
 def SaveFile(userp, usern):
-    Filereader = "C:\\Users\\user\\Desktop\\Python data\\Username and password.txt" # The location of the text file
+    Filereader = "" # The location of the text file
 
     while True: # start a while loop, so i can have the option to use break
 
